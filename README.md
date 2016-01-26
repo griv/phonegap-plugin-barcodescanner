@@ -1,7 +1,7 @@
 # PhoneGap Plugin BarcodeScanner
 ================================
 
-This was forked from the original [phonegap-plugin-barcodescanner](https://github.com/phonegap/phonegap-plugin-barcodescanner) and will be removed once the problem [bug with the translations](https://github.com/phonegap/phonegap-plugin-barcodescanner/pull/145) is fixed in that repo. 
+This was forked from the original [phonegap-plugin-barcodescanner](https://github.com/phonegap/phonegap-plugin-barcodescanner) and will be removed once the problem [bug with the translations](https://github.com/phonegap/phonegap-plugin-barcodescanner/pull/145) is fixed in that repo. Referencing the [PhoneGap Community discussion](http://community.phonegap.com/nitobi/topics/build-fails-due-to-translation-error?utm_source=notification&utm_medium=email&utm_campaign=new_comment&utm_content=reply_button&reply[id]=16551344#reply_16551344).
 
 [![Build Status](https://travis-ci.org/phonegap/phonegap-plugin-barcodescanner.svg)](https://travis-ci.org/phonegap/phonegap-plugin-barcodescanner)
 
